@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "type=hardened_machine_frame": {
+      "model": "extrastuff:hardened_machine_frame"
+    },
+    "type=reinforced_machine_frame": {
+      "model": "extrastuff:reinforced_machine_frame"
+    },
+    "type=resonant_machine_frame": {
+      "model": "extrastuff:resonant_machine_frame"
+    },
+    "type=resonating_diamond_block": {
+      "model": "extrastuff:resonating_diamond_block"
+    },
+    "type=resonating_diamond_block_compressed": {
+      "model": "extrastuff:resonating_diamond_block_compressed"
+    },
+    "type=block_of_the_void": {
+      "model": "extrastuff:block_of_the_void"
+    }
+  }
+}
